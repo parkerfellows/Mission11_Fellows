@@ -16,10 +16,22 @@ namespace Mission11_Fellows.API.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Book> GetBooks()
+        public IActionResult GetBooks(int pageSize = 10, int pageNum = 1)
         {
-            var books = _context.Books.ToList();
-            return books;
+            var books = _context.Books
+                .Skip((pageNum - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            var totalNumBooks = _context.Books.Count();
+
+            var results = new
+            {
+                Books = books,
+                TotalNumBooks = totalNumBooks
+            };
+
+            return Ok(results);
         }
     }
 }
