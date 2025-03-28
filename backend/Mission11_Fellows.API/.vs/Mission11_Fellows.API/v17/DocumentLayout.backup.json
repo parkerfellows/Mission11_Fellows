@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\desktop\\mission11_fellows\\backend\\mission11_fellows.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\desktop\\mission11_fellows\\backend\\mission11_fellows.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\desktop\\mission11_fellows\\backend\\mission11_fellows.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\desktop\\mission11_fellows\\backend\\mission11_fellows.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\github repositories\\mission11_fellows\\backend\\mission11_fellows.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\desktop\\mission11_fellows\\backend\\mission11_fellows.api\\data\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:data\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\desktop\\mission11_fellows\\backend\\mission11_fellows.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\github repositories\\mission11_fellows\\backend\\mission11_fellows.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\desktop\\mission11_fellows\\backend\\mission11_fellows.api\\mission11_fellows.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\igitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:igitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\github repositories\\mission11_fellows\\backend\\mission11_fellows.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\github repositories\\mission11_fellows\\backend\\mission11_fellows.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\github repositories\\mission11_fellows\\backend\\mission11_fellows.api\\data\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:data\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\github repositories\\mission11_fellows\\backend\\mission11_fellows.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|c:\\users\\owner\\github repositories\\mission11_fellows\\backend\\mission11_fellows.api\\mission11_fellows.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4E4892F2-77FD-4D90-B2E4-DD2446E2A3D5}|Mission11_Fellows.API.csproj|solutionrelative:mission11_fellows.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,94 +50,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T01:23:20.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Controllers\\BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Controllers\\BookController.cs",
               "RelativeToolTip": "Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T19:58:24.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAMAAAAAmpmZmRkWwBsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T19:53:44.55Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "igitignore",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\igitignore",
+              "RelativeDocumentMoniker": "igitignore",
+              "ToolTip": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\igitignore",
+              "RelativeToolTip": "igitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-28T21:30:20.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T01:23:20.472Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BookStoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Data\\BookStoreDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\BookStoreDbContext.cs",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Data\\BookStoreDbContext.cs",
-              "RelativeToolTip": "Data\\BookStoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAANDMzMzP7vx0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T19:49:56.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T19:40:25.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T19:53:44.55Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Data\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Data\\BookStoreDbContext.cs",
+              "RelativeToolTip": "Data\\BookStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:49:56.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T19:40:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Data\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Data\\Book.cs",
               "RelativeDocumentMoniker": "Data\\Book.cs",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Data\\Book.cs",
+              "ToolTip": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Data\\Book.cs",
               "RelativeToolTip": "Data\\Book.cs",
-              "ViewState": "AgIAAAYAAAAAMzMzM3MiwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAQMzMzMxM7wBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T19:43:00.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Mission11_Fellows.API",
-              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Mission11_Fellows.API.csproj",
+              "DocumentIndex": 7,
+              "Title": "Mission11_Fellows.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Mission11_Fellows.API.csproj",
               "RelativeDocumentMoniker": "Mission11_Fellows.API.csproj",
-              "ToolTip": "C:\\Users\\Owner\\Desktop\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Mission11_Fellows.API.csproj",
+              "ToolTip": "C:\\Users\\Owner\\GitHub Repositories\\Mission11_Fellows\\backend\\Mission11_Fellows.API\\Mission11_Fellows.API.csproj",
               "RelativeToolTip": "Mission11_Fellows.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-17T19:39:20.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T19:39:20.627Z"
             }
           ]
         }

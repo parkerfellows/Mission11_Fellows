@@ -16,14 +16,21 @@ namespace Mission11_Fellows.API.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetBooks(int pageSize = 10, int pageNum = 1)
+        public IActionResult GetBooks(int pageSize = 10, int pageNum = 1, [FromQuery] List<string>? bookTypes = null)
         {
-            var books = _context.Books
+            var query = _context.Books.AsQueryable();
+
+            if (bookTypes != null && bookTypes.Any())
+            {
+                query = query.Where(p => bookTypes.Contains(p.Category));
+            }
+
+            var books = query
                 .Skip((pageNum - 1) * pageSize)
                 .Take(pageSize)
                 .ToList();
 
-            var totalNumBooks = _context.Books.Count();
+            var totalNumBooks = query.Count();
 
             var results = new
             {
@@ -33,5 +40,16 @@ namespace Mission11_Fellows.API.Controllers
 
             return Ok(results);
         }
+
+        [HttpGet("GetBookTypes")]
+        public IActionResult GetBookTypes()
+        {
+            var bookTypes = _context.Books
+                .Select(p => p.Category)
+                .Distinct()
+                .ToList();
+            return Ok(bookTypes);
+        }
+
     }
 }
