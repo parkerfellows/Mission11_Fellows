@@ -5,8 +5,10 @@ import { CartItem } from '../types/CartItem';
 function CartPage() {
   const navigate = useNavigate();
   const { cart, removeFromCart } = useCart();
-
+    //pieces together the required data from the cart context
+  // Calculate total cost of items in the cart
   const totalCost = cart.reduce((total, item) => total + item.price, 0);
+  //Puts together the required components for the cart page
   return (
     <div>
       <h2>Your cart</h2>

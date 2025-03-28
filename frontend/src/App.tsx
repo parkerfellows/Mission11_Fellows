@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import CartPage from './pages/CartPage';
 import PurchasePage from './pages/PurchasePage';
 import { CartProvider } from './context/CartContext';
-
+//controlls the routing of the web app
 function App() {
   return (
     <>

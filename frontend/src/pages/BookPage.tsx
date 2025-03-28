@@ -7,6 +7,7 @@ import CartSummary from '../components/CartSummary';
 function BookPage() {
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
 
+    //Pieces together the required components for the BookPage
   return (
     <div className="container mt-4">
         <WelcomeBand />
