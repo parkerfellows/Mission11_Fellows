@@ -2,7 +2,7 @@ import { useNavigate, useParams } from 'react-router-dom'; // Import hooks for n
 import WelcomeBand from '../components/WelcomeBand'; // Import header component
 import { useCart } from '../context/CartContext'; // Import custom hook for cart functionality
 import { CartItem } from '../types/CartItem'; // Import type definition for cart items
-import { Container, Row, Col, Card, Button, ListGroup } from 'react-bootstrap'; // Import Bootstrap components
+import { Container, Row, Col, Button, ListGroup } from 'react-bootstrap'; // Import Bootstrap components
 import bookImage from '../assets/bookImage.jpg'; // Import default book image
 
 /**

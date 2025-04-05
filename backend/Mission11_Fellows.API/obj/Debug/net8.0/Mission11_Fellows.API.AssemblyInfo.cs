@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission11_Fellows.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043b3409929d491abaad0fa47ef896bf946b4f28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c77c1ac5e6f464ddcf504792a177d219ae3eff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission11_Fellows.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission11_Fellows.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

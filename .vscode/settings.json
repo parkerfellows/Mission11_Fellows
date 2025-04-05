@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/729b0a09-9dac-4186-a689-d41a2f877d5c/resourceGroups/appsvc_windows_eastus/providers/Microsoft.Web/sites/BookStore-Fellows-Backend",
+  "appService.deploySubpath": "backend\\Mission11_Fellows.API\\publish"
+}

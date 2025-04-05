@@ -134,10 +134,16 @@ C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.A
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mission11_Fellows.API.props
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mission11_Fellows.API.props
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\Mission1.8B47AEA6.Up2Date
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\Mission11_Fellows.API.dll
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\refint\Mission11_Fellows.API.dll
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\Mission11_Fellows.API.pdb
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\Mission11_Fellows.API.genruntimeconfig.cache
 C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\obj\Debug\net8.0\ref\Mission11_Fellows.API.dll
+C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\bin\Debug\net8.0\publish\web.config
+C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\bin\Debug\net8.0\publish\Mission11_Fellows.API.deps.json
+C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\bin\Debug\net8.0\publish\Mission11_Fellows.API.runtimeconfig.json
+C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\bin\Debug\net8.0\publish\Mission11_Fellows.API.staticwebassets.endpoints.json
+C:\Users\Owner\GitHub Repositories\Mission11_Fellows\backend\Mission11_Fellows.API\bin\Debug\net8.0\Bookstore.sqlite

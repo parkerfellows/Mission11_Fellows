@@ -13,7 +13,6 @@ function BookList({ selectedCategories }: { selectedCategories: string[] }) {
   // State for tracking the current page number
   const [pageNum, setPageNum] = useState<number>(1);
   // State for storing the total number of books available
-  const [totalItems, setTotalItems] = useState<number>(0);
   // State for storing the total number of pages
   const [totalPages, setTotalPages] = useState<number>(0);
   const [error, setError] = useState<string | null>(null);
