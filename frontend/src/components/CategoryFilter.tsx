@@ -22,7 +22,7 @@ function CategoryFilter({
       try {
         // Fetch book categories from the API
         const response = await fetch(
-          'https://localhost:5000/api/Book/GetBookTypes'
+          'https://mission13-backend-fellows-czhchvccf9f3bvez.eastus-01.azurewebsites.net/api/Book/GetBookTypes'
         );
         const data = await response.json();
         console.log('Fetched categories:', data);

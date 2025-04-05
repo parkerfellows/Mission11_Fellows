@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'; // Importing React hooks for state 
 import { Book } from '../types/Book'; // Importing the Book type definition
 import 'bootstrap/dist/css/bootstrap.min.css'; // Importing Bootstrap CSS for styling
 import { useNavigate } from 'react-router-dom'; // Hook for programmatic navigation
+import { fetchBooks } from '../api/BooksAPI'; // Importing the API function to fetch books
 
 // Component that displays a list of books, filtered by selected categories
 function BookList({ selectedCategories }: { selectedCategories: string[] }) {
@@ -15,28 +16,44 @@ function BookList({ selectedCategories }: { selectedCategories: string[] }) {
   const [totalItems, setTotalItems] = useState<number>(0);
   // State for storing the total number of pages
   const [totalPages, setTotalPages] = useState<number>(0);
+  const [error, setError] = useState<string | null>(null);
+  const [loading, setLoading] = useState(true);
+
   // Hook for navigation between routes
   const navigate = useNavigate();
 
   // Effect hook that runs when pageSize, pageNum, or selectedCategories change
   useEffect(() => {
-    const fetchBooks = async () => {
+    const loadBooks = async () => {
       // Create URL parameters for category filtering
-      const categoryParams = selectedCategories
-        .map((cat) => `bookTypes=${encodeURIComponent(cat)}`)
-        .join('&');
+      // const categoryParams = selectedCategories
+      //   .map((cat) => `bookTypes=${encodeURIComponent(cat)}`)
+      //   .join('&');
 
       // Fetch books from the API with pagination and filtering
-      const response = await fetch(
-        `https://localhost:5000/api/Book?pageSize=${pageSize}&pageNum=${pageNum}${selectedCategories.length ? `&${categoryParams}` : ''}`
-      );
-      const data = await response.json();
-      setBooks(data.books); // Update books state with fetched data
-      setTotalItems(data.totalNumBooks); // Update total books count
-      setTotalPages(Math.ceil(data.totalNumBooks / pageSize)); // Calculate and update total pages
+      try {
+        setLoading(true); // Set loading state to true before fetching
+        const data = await fetchBooks(pageSize, pageNum, selectedCategories); // Fetch books from API
+        setBooks(data.books); // Update books state with fetched data
+        setTotalPages(Math.ceil(data.totalNumBooks / pageSize)); // Calculate and update total pages
+      } catch (error) {
+        setError((error as Error).message);
+      } finally {
+        setLoading(false); // Set loading state to false after fetching
+      }
     };
-    fetchBooks(); // Call the fetch function
+    loadBooks(); // Call the loadBooks function to fetch data
+    // Handle any errors that occur during fetch
+    //   const data = await fetchBooks(pageSize, pageNum, selectedCategories);
+    //   setBooks(data.books); // Update books state with fetched data
+    //   setTotalItems(data.totalNumBooks); // Update total books count
+    //   setTotalPages(Math.ceil(data.totalNumBooks / pageSize)); // Calculate and update total pages
+    // };
+    // fetchBooks(); // Call the fetch function
   }, [pageSize, pageNum, selectedCategories]); // Dependencies that trigger re-fetch when changed
+
+  if (loading) return <p>Loading projects...</p>;
+  if (error) return <p className="text-red-500">Error: {error}</p>;
 
   return (
     <>
